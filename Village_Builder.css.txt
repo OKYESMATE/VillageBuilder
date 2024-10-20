@@ -1,0 +1,25 @@
+body{
+  padding: 25px;
+  background-color: #008000;
+}
+p{
+	color: #964B00;
+	font-family: verdana;
+}
+.title{
+  padding: 25px;
+  color: #7f2b02;
+}
+h4{
+	color: #C0C0C0;
+	font-family: verdana;
+}
+i{
+	color: #ffff00;
+	font-family: verdana;
+}
+h3{
+	color: #964B00;
+	font-size: 20px;
+	font-family: verdana;
+}
